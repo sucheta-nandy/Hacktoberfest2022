@@ -1,3 +1,3 @@
 # Hacktoberfest2022
 
-A simple repository containing various programminf files
+A simple repository containing various programming files contributing towrds Hacktoberfest 2022.
